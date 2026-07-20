@@ -24,19 +24,21 @@ To provide actionable insights for disaster response teams, this project answers
 ## Methodology
 The project follows the following steps to process the data:
 * **Phase One:** Data Gathering and Cleaning (Excel Power Query)
-i. Download the raw, official flood tracking data in csv from reliable data source.
-ii. Open the data in Excel using Power Query.
-iii. Clean the data - Remove unnecessary columns, filter rows to only show Kenyan counties, fix any mispelled county names and replace empty or blanks with '0'.
-* **Phase Two:** Budget Modeling and Gap Analysis (Excel Formulas)
+  * Download the raw, official flood tracking data in csv from reliable data source.
+  * Open the data in Excel using Power Query.
+  * Clean the data - Remove unnecessary columns, filter rows to only show Kenyan counties, fix any mispelled county names
+    and replace empty or blanks with '0'.
+    
+* **Phase Two:** Budget Modeling and Gap Analysis (Excel Formulas).
 Use standard Excel formulas to calculate metrics and risk categories like:
-i. Required Emergency Budget.
-ii. Funding shortage or deficit.
-iii. Resource status labelling using 'IF' to categorize funding as either 'Underfunded' or 'Fully Funded/Surplus'.
-iv. Priority level label: Labelling dispaced persons as either 'CRITICAL (Priority 1)', 'SEVERE (Priority 2)' or 'STABLE (Priority 3)'.
+  * Required Emergency Budget.
+  * Funding shortage or deficit.
+  * Resource status labelling using 'IF' to categorize funding as either 'Underfunded' or 'Fully Funded/Surplus'.
+  * Priority level label: Labelling dispaced persons as either 'CRITICAL (Priority 1)', 'SEVERE (Priority 2)' or 'STABLE(Priority 3)'.
 
 * **Phase Three:** Spatial Visual Analytics (Tableau)
-i. Connect Tableau directly to the finalized, clean Excel workbook.
-ii. Build KPI cards (Total Displaced, Total Shortages).
-iii. Create an interactive Filled map of Kenya to color code the counties based on priority levels.
-iv. Build Bar chart to show counties with the biggest money shortages.
-v. Enable dashboard interactivity whereby clicking on a specific county instantly filters the KPI metrics and resource charts across the entire dashboard.
+  * Connect Tableau directly to the finalized, clean Excel workbook.
+  * Build KPI cards (Total Displaced, Total Shortages).
+  * Create an interactive Filled map of Kenya to color code the counties based on priority levels.
+  * Build Bar chart to show counties with the biggest money shortages.
+  * Enable dashboard interactivity whereby clicking on a specific county instantly filters the KPI metrics and resource      charts across the entire dashboard.
