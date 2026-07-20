@@ -9,7 +9,7 @@ During heavy rainfall seasons, Kenya experiences severe localized flooding that 
 When Flood disasters strike, humanitarian organizations struggle with fragmented data. Disaster management agencies frequently log displacement numbers, damage metrics and financial aid disbursments across non-related files. Without a centralized and data-driven framework:
 * **Misallocation occurs:** Some heavily impacted counties may suffer from resource shortages while other regions recieve funding in surplus.
 * **Slow Response Time:** Decision makers cannot easily see which highly flooded areas are running out of money.
-* **Hidden Costs:** Government and non+profit stakeholders lack an automated system to forecast the exact budget needed to support displaced families based on new field reports.
+* **Hidden Costs:** Government and non-profit stakeholders lack an automated system to forecast the exact budget needed to support displaced families based on new field reports.
 
 ## Key Research Questions
 To provide actionable insights for disaster response teams, this project answers the following core questions:
