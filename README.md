@@ -24,7 +24,7 @@ To provide actionable insights for disaster response teams, this project answers
 ## Methodology
 The project follows the following steps to process the data:
 * **Phase One:** Data Gathering and Cleaning (Excel Power Query)
-  * Download the raw, official flood tracking data in csv from reliable data source.
+  * Download the raw, official flood tracking data in csv from data source.
   * Open the data in Excel using Power Query.
   * Clean the data - Remove unnecessary columns, filter rows to only show Kenyan counties, fix any mispelled county names
     and replace empty or blanks with '0'.
