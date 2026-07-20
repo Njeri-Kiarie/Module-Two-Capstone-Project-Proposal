@@ -18,7 +18,7 @@ To provide actionable insights for disaster response teams, this project answers
 3. **Financial Liabilities:** What is the exact monetory funding gap(deficit or surplus) per county to buy basic emergency supply kits for families?
 4. **Smart Reallocation of funds:** How can we use a dashboard to quickly identify areas with extra money and move those resources to underfunded hotspots?
 
-## Data Source
+## Data Sources
 * https://data.humdata.org/group/ken
 * https://dtm.iom.int/kenya
 * https://response.reliefweb.int/kenya/data
