@@ -30,7 +30,7 @@ The project follows the following steps to process the data:
 * **Phase One:** Data Gathering and Cleaning (Excel Power Query)
   * Download county-level drought and humanitarian datasets from official   sources.
   * Open the data in Excel using Power Query.
-  * Clean the data - Remove unnecessary columns, Standardize county names, Handle Missing values, Correcting data types and merging datasets into a single table.
+  * Clean the data - Remove unnecessary columns, Standardize county names, Handle Missing values, Correcting data types.
     
 * **Phase Two:** Budget Modeling and Gap Analysis (Excel Formulas).
 Use standard Excel formulas to calculate metrics like:
