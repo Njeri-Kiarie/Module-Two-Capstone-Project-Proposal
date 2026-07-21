@@ -23,7 +23,7 @@ To support humanitarian planning and resource allocation, this project seeks to 
 ## Data Sources.
 The project utilizes publicly available count-level datasets from the following sources:
 * Integrated Food Security Phase Classification(IPC) - County-level data on populations requiring humanitarian assistance (IPC Phase 3 and above).
-https://www.ipcinfo.org/ipc-country-analysis/en/?country=KEN&utm_source=chatgpt.com
+https://www.ipcinfo.org/ipc-country-analysis/en/?country=KEN
 
 ## Methodology
 The project follows the following steps to process the data:
