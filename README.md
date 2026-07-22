@@ -43,6 +43,6 @@ Use standard Excel formulas to calculate metrics like:
 
 * **Phase Three:** Interactive Spatial Analytics (Tableau)
   * Connect Tableau directly to the finalized, clean Excel workbook.
-  * Build KPI cards (Total Population Affected by drought, Total Population Requiring Humanitarian Assistance, Total Estimated Humanitarian Response Budget Required, Total Estimated Funding Gap, Number of High Priority Counties).
+  * Build KPI cards (Total Population Analyzed, Total Population Requiring Humanitarian Assistance, Total Estimated Humanitarian Response Budget Required, Total Estimated Funding Gap, Number of High Priority Counties).
   * Create an interactive Filled map of Kenya to color code the counties based on humanitarian priority levels based on drought-related impacts.
   * Build Bar chart to rank counties by estimated affected population and Financial Gap chart to compare the estimated humanitarian response budget against available funding to identify counties with the largest funding deficits .* Enable dashboard interactivity whereby clicking on a specific county instantly updates the KPI metrics and Visualizations and Include filters for county, humanitarian priority level, and funding status to facilitate interactive analysis.
