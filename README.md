@@ -7,7 +7,7 @@ Kenya experiences recurring droughts that affect the Arid and Semi-Arid Lands(AS
 
 ## Problem Statement
 Recurring droughts remain one of Kenya's most significant and devastating natural disasters. Although organizations such as the National Drought Management Authority (NDMA) and humanitarian agencies regularly publish drought monitoring reports, the information is often spread across multiple datasets and reports, making it difficult to obtain a comprehensive overview of drought severity and humanitarian needs. Without a centralized and data-driven framework:
-* **Insufficient Resource Allocation occurs:** Counties experiencing the highest levels of insecurity may not receive resources proportional to their needs.
+* **Insufficient Resource Allocation occurs:** Counties experiencing the highest levels of drought may not receive resources proportional to their needs.
 * **Delayed decision making:** Humanitarian agencies face challenges in quickly identifying priority counties that require urgent intervention.
 * **Limited Financial Planning:** Government and non-profit stakeholders lack an automated system to forecast an estimate budget needed to provide emergency food assistance and identify deficits or surpluses.
 * **Fragmented Data:** A significant amount of time is taken by decision-makers in consolidating information from multiple sources before being able to plan interventions.
