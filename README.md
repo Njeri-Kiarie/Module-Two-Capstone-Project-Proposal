@@ -1,4 +1,4 @@
-# Module-Two-Capstone-Project-Proposal
+# Module-Two-GenData-Project-Proposal
 
 # Kenya Drought Humanitarian Response Dashboard
 
